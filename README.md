@@ -1,7 +1,9 @@
 # Ageing in Place Classification
 
 >The Ageing in Place Classification (AiPC) classifies population aged 50 years old and older in England. The geodemographic consists of two tiers Tier 1, the Supergroups, contains five clusters providing the most generic descriptions of the older population (aged 50 and over) and their living environments. Tier 2, the Groups, further differentiates within the five clusters of Tier 1 giving an additional 13 clusters.
+>
 >The classification is based on multiple high quality data sources including ONS 2011 Census, British Population Survey (BPS), Access to Healthy Assets & Hazards (AHAH), NHS English Prescribing Data (EPD), Registered Patient (RP). It contains all the 32,844 LSOAs in England classified by the AiPC. Each row/LSOA is assigned to a AiPC Supergroup name and code and a Group name and code.
+>
 >The AiPC is the first-of-its-kind bespoke geodemographic classification in England targeting the population aged 50 years old and older. <sub>[Source: Consumer Data Research Centre](https://mapmaker.cdrc.ac.uk/#/ageing-in-place-classification)<sub>
 
 You can access the online map for free from CDRC (Consumer Data Research Centre) Mapmaker platform [here](https://mapmaker.cdrc.ac.uk/#/ageing-in-place-classification).
